@@ -1,6 +1,6 @@
 # technical_discussion
 
-###This is a second heading
-*one
-*two
-*three
+### This is a second heading
+* one
+* two
+* three
